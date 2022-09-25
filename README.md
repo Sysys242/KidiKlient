@@ -10,7 +10,7 @@
 
 <br>
 
-> # Warning.
+> # Warning
 * ***This project was made for educational purposes only! I take no responsibility for anything you do with this program.***
 * ***If you have any suggestions, problems, open a problem (if it is an error, you must be sure to look if you can solve it with [Google](https://giybf.com)!)***
 
