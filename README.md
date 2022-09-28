@@ -19,7 +19,6 @@
 > # Support me.
 * Thanks for looking at this repository, if you like to press the ⭐ button!
 * Made with 💖 by [Sysy's](https://github.com/Sysys242) & FloppaAirLines.
-* RCΛ Love u.
 
 <p align="center"> 
     <b>Informations</b><br>
